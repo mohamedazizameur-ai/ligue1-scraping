@@ -1,0 +1,307 @@
+season,matchday,date,date_text,home,away,home_goals,away_goals,total_goals,result,status
+2025,1,2025-08-15,ven 15 août,Rennes,Marseille,1,0,1,Victoire domicile,joué
+2025,1,2025-08-16,sam 16 août,Monaco,Le Havre,3,1,4,Victoire domicile,joué
+2025,1,2025-08-16,sam 16 août,Lens,Lyon,0,1,1,Victoire extérieur,joué
+2025,1,2025-08-16,sam 16 août,Nice,Toulouse,0,1,1,Victoire extérieur,joué
+2025,1,2025-08-17,dim 17 août,Brest,Lille,3,3,6,Match nul,joué
+2025,1,2025-08-17,dim 17 août,Angers,Paris FC,1,0,1,Victoire domicile,joué
+2025,1,2025-08-17,dim 17 août,Nantes,Paris SG,0,1,1,Victoire extérieur,joué
+2025,1,2025-08-17,dim 17 août,Auxerre,Lorient,1,0,1,Victoire domicile,joué
+2025,1,2025-08-17,dim 17 août,Metz,Strasbourg,0,1,1,Victoire extérieur,joué
+2025,2,2025-08-22,ven 22 août,Paris SG,Angers,1,0,1,Victoire domicile,joué
+2025,2,2025-08-23,sam 23 août,Lyon,Metz,3,0,3,Victoire domicile,joué
+2025,2,2025-08-23,sam 23 août,Nice,Auxerre,3,1,4,Victoire domicile,joué
+2025,2,2025-08-23,sam 23 août,Marseille,Paris FC,5,2,7,Victoire domicile,joué
+2025,2,2025-08-24,dim 24 août,Lille,Monaco,1,0,1,Victoire domicile,joué
+2025,2,2025-08-24,dim 24 août,Le Havre,Lens,1,2,3,Victoire extérieur,joué
+2025,2,2025-08-24,dim 24 août,Toulouse,Brest,2,0,2,Victoire domicile,joué
+2025,2,2025-08-24,dim 24 août,Lorient,Rennes,4,0,4,Victoire domicile,joué
+2025,2,2025-08-24,dim 24 août,Strasbourg,Nantes,1,0,1,Victoire domicile,joué
+2025,3,2025-08-29,ven 29 août,Lens,Brest,3,1,4,Victoire domicile,joué
+2025,3,2025-08-30,sam 30 août,Toulouse,Paris SG,3,6,9,Victoire extérieur,joué
+2025,3,2025-08-30,sam 30 août,Lorient,Lille,1,7,8,Victoire extérieur,joué
+2025,3,2025-08-30,sam 30 août,Nantes,Auxerre,1,0,1,Victoire domicile,joué
+2025,3,2025-08-31,dim 31 août,Le Havre,Nice,3,1,4,Victoire domicile,joué
+2025,3,2025-08-31,dim 31 août,Lyon,Marseille,1,0,1,Victoire domicile,joué
+2025,3,2025-08-31,dim 31 août,Paris FC,Metz,3,2,5,Victoire domicile,joué
+2025,3,2025-08-31,dim 31 août,Monaco,Strasbourg,3,2,5,Victoire domicile,joué
+2025,3,2025-08-31,dim 31 août,Angers,Rennes,1,1,2,Match nul,joué
+2025,4,2025-09-12,ven 12 sept.,Marseille,Lorient,4,0,4,Victoire domicile,joué
+2025,4,2025-09-13,sam 13 sept.,Auxerre,Monaco,1,2,3,Victoire extérieur,joué
+2025,4,2025-09-13,sam 13 sept.,Nice,Nantes,1,0,1,Victoire domicile,joué
+2025,4,2025-09-14,dim 14 sept.,Lille,Toulouse,2,1,3,Victoire domicile,joué
+2025,4,2025-09-14,dim 14 sept.,Strasbourg,Le Havre,1,0,1,Victoire domicile,joué
+2025,4,2025-09-14,dim 14 sept.,Rennes,Lyon,3,1,4,Victoire domicile,joué
+2025,4,2025-09-14,dim 14 sept.,Brest,Paris FC,1,2,3,Victoire extérieur,joué
+2025,4,2025-09-14,dim 14 sept.,Metz,Angers,1,1,2,Match nul,joué
+2025,4,2025-09-14,dim 14 sept.,Paris SG,Lens,2,0,2,Victoire domicile,joué
+2025,5,2025-09-19,ven 19 sept.,Lyon,Angers,1,0,1,Victoire domicile,joué
+2025,5,2025-09-20,sam 20 sept.,Lens,Lille,3,0,3,Victoire domicile,joué
+2025,5,2025-09-20,sam 20 sept.,Brest,Nice,4,1,5,Victoire domicile,joué
+2025,5,2025-09-20,sam 20 sept.,Nantes,Rennes,2,2,4,Match nul,joué
+2025,5,2025-09-21,dim 21 sept.,Auxerre,Toulouse,1,0,1,Victoire domicile,joué
+2025,5,2025-09-21,dim 21 sept.,Monaco,Metz,5,2,7,Victoire domicile,joué
+2025,5,2025-09-21,dim 21 sept.,Paris FC,Strasbourg,2,3,5,Victoire extérieur,joué
+2025,5,2025-09-21,dim 21 sept.,Le Havre,Lorient,1,1,2,Match nul,joué
+2025,5,2025-09-22,lun 22 sept.,Marseille,Paris SG,1,0,1,Victoire domicile,joué
+2025,6,2025-09-26,ven 26 sept.,Strasbourg,Marseille,1,2,3,Victoire extérieur,joué
+2025,6,2025-09-27,sam 27 sept.,Paris SG,Auxerre,2,0,2,Victoire domicile,joué
+2025,6,2025-09-27,sam 27 sept.,Toulouse,Nantes,2,2,4,Match nul,joué
+2025,6,2025-09-27,sam 27 sept.,Lorient,Monaco,3,1,4,Victoire domicile,joué
+2025,6,2025-09-28,dim 28 sept.,Nice,Paris FC,1,1,2,Match nul,joué
+2025,6,2025-09-28,dim 28 sept.,Lille,Lyon,0,1,1,Victoire extérieur,joué
+2025,6,2025-09-28,dim 28 sept.,Rennes,Lens,0,0,0,Match nul,joué
+2025,6,2025-09-28,dim 28 sept.,Metz,Le Havre,0,0,0,Match nul,joué
+2025,6,2025-09-28,dim 28 sept.,Angers,Brest,0,2,2,Victoire extérieur,joué
+2025,7,2025-10-03,ven 3 oct.,Paris FC,Lorient,2,0,2,Victoire domicile,joué
+2025,7,2025-10-04,sam 4 oct.,Metz,Marseille,0,3,3,Victoire extérieur,joué
+2025,7,2025-10-04,sam 4 oct.,Auxerre,Lens,1,2,3,Victoire extérieur,joué
+2025,7,2025-10-04,sam 4 oct.,Brest,Nantes,0,0,0,Match nul,joué
+2025,7,2025-10-05,dim 5 oct.,Strasbourg,Angers,5,0,5,Victoire domicile,joué
+2025,7,2025-10-05,dim 5 oct.,Le Havre,Rennes,2,2,4,Match nul,joué
+2025,7,2025-10-05,dim 5 oct.,Monaco,Nice,2,2,4,Match nul,joué
+2025,7,2025-10-05,dim 5 oct.,Lille,Paris SG,1,1,2,Match nul,joué
+2025,7,2025-10-05,dim 5 oct.,Lyon,Toulouse,1,2,3,Victoire extérieur,joué
+2025,8,2025-10-17,ven 17 oct.,Paris SG,Strasbourg,3,3,6,Match nul,joué
+2025,8,2025-10-18,sam 18 oct.,Angers,Monaco,1,1,2,Match nul,joué
+2025,8,2025-10-18,sam 18 oct.,Marseille,Le Havre,6,2,8,Victoire domicile,joué
+2025,8,2025-10-18,sam 18 oct.,Nice,Lyon,3,2,5,Victoire domicile,joué
+2025,8,2025-10-19,dim 19 oct.,Lens,Paris FC,2,1,3,Victoire domicile,joué
+2025,8,2025-10-19,dim 19 oct.,Toulouse,Metz,4,0,4,Victoire domicile,joué
+2025,8,2025-10-19,dim 19 oct.,Lorient,Brest,3,3,6,Match nul,joué
+2025,8,2025-10-19,dim 19 oct.,Rennes,Auxerre,2,2,4,Match nul,joué
+2025,8,2025-10-19,dim 19 oct.,Nantes,Lille,0,2,2,Victoire extérieur,joué
+2025,9,2025-10-24,ven 24 oct.,Paris FC,Nantes,1,2,3,Victoire extérieur,joué
+2025,9,2025-10-25,sam 25 oct.,Brest,Paris SG,0,3,3,Victoire extérieur,joué
+2025,9,2025-10-25,sam 25 oct.,Monaco,Toulouse,1,0,1,Victoire domicile,joué
+2025,9,2025-10-25,sam 25 oct.,Lens,Marseille,2,1,3,Victoire domicile,joué
+2025,9,2025-10-26,dim 26 oct.,Auxerre,Le Havre,0,1,1,Victoire extérieur,joué
+2025,9,2025-10-26,dim 26 oct.,Lille,Metz,6,1,7,Victoire domicile,joué
+2025,9,2025-10-26,dim 26 oct.,Rennes,Nice,1,2,3,Victoire extérieur,joué
+2025,9,2025-10-26,dim 26 oct.,Lyon,Strasbourg,2,1,3,Victoire domicile,joué
+2025,9,2025-10-26,dim 26 oct.,Angers,Lorient,2,0,2,Victoire domicile,joué
+2025,10,2025-10-29,mer 29 oct.,Metz,Lens,2,0,2,Victoire domicile,joué
+2025,10,2025-10-29,mer 29 oct.,Le Havre,Brest,1,0,1,Victoire domicile,joué
+2025,10,2025-10-29,mer 29 oct.,Toulouse,Rennes,2,2,4,Match nul,joué
+2025,10,2025-10-29,mer 29 oct.,Marseille,Angers,2,2,4,Match nul,joué
+2025,10,2025-10-29,mer 29 oct.,Nice,Lille,2,0,2,Victoire domicile,joué
+2025,10,2025-10-29,mer 29 oct.,Nantes,Monaco,3,5,8,Victoire extérieur,joué
+2025,10,2025-10-29,mer 29 oct.,Lorient,Paris SG,1,1,2,Match nul,joué
+2025,10,2025-10-29,mer 29 oct.,Strasbourg,Auxerre,3,0,3,Victoire domicile,joué
+2025,10,2025-10-29,mer 29 oct.,Paris FC,Lyon,3,3,6,Match nul,joué
+2025,11,2025-11-01,sam 1 nov.,Paris SG,Nice,1,0,1,Victoire domicile,joué
+2025,11,2025-11-01,sam 1 nov.,Monaco,Paris FC,0,1,1,Victoire extérieur,joué
+2025,11,2025-11-01,sam 1 nov.,Auxerre,Marseille,0,1,1,Victoire extérieur,joué
+2025,11,2025-11-02,dim 2 nov.,Lille,Angers,1,0,1,Victoire domicile,joué
+2025,11,2025-11-02,dim 2 nov.,Rennes,Strasbourg,4,1,5,Victoire domicile,joué
+2025,11,2025-11-02,dim 2 nov.,Brest,Lyon,0,0,0,Match nul,joué
+2025,11,2025-11-02,dim 2 nov.,Lens,Lorient,3,0,3,Victoire domicile,joué
+2025,11,2025-11-02,dim 2 nov.,Toulouse,Le Havre,0,0,0,Match nul,joué
+2025,11,2025-11-02,dim 2 nov.,Nantes,Metz,0,2,2,Victoire extérieur,joué
+2025,12,2025-11-07,ven 7 nov.,Paris FC,Rennes,0,1,1,Victoire extérieur,joué
+2025,12,2025-11-08,sam 8 nov.,Le Havre,Nantes,1,1,2,Match nul,joué
+2025,12,2025-11-08,sam 8 nov.,Marseille,Brest,3,0,3,Victoire domicile,joué
+2025,12,2025-11-08,sam 8 nov.,Monaco,Lens,1,4,5,Victoire extérieur,joué
+2025,12,2025-11-09,dim 9 nov.,Lorient,Toulouse,1,1,2,Match nul,joué
+2025,12,2025-11-09,dim 9 nov.,Strasbourg,Lille,2,0,2,Victoire domicile,joué
+2025,12,2025-11-09,dim 9 nov.,Metz,Nice,2,1,3,Victoire domicile,joué
+2025,12,2025-11-09,dim 9 nov.,Lyon,Paris SG,2,3,5,Victoire extérieur,joué
+2025,12,2025-11-09,dim 9 nov.,Angers,Auxerre,2,0,2,Victoire domicile,joué
+2025,13,2025-11-21,ven 21 nov.,Nice,Marseille,1,5,6,Victoire extérieur,joué
+2025,13,2025-11-22,sam 22 nov.,Paris SG,Le Havre,3,0,3,Victoire domicile,joué
+2025,13,2025-11-22,sam 22 nov.,Rennes,Monaco,4,1,5,Victoire domicile,joué
+2025,13,2025-11-22,sam 22 nov.,Lens,Strasbourg,1,0,1,Victoire domicile,joué
+2025,13,2025-11-23,dim 23 nov.,Toulouse,Angers,0,1,1,Victoire extérieur,joué
+2025,13,2025-11-23,dim 23 nov.,Auxerre,Lyon,0,0,0,Match nul,joué
+2025,13,2025-11-23,dim 23 nov.,Lille,Paris FC,4,2,6,Victoire domicile,joué
+2025,13,2025-11-23,dim 23 nov.,Brest,Metz,3,2,5,Victoire domicile,joué
+2025,13,2025-11-23,dim 23 nov.,Nantes,Lorient,1,1,2,Match nul,joué
+2025,14,2025-11-28,ven 28 nov.,Metz,Rennes,0,1,1,Victoire extérieur,joué
+2025,14,2025-11-29,sam 29 nov.,Paris FC,Auxerre,1,1,2,Match nul,joué
+2025,14,2025-11-29,sam 29 nov.,Marseille,Toulouse,2,2,4,Match nul,joué
+2025,14,2025-11-29,sam 29 nov.,Monaco,Paris SG,1,0,1,Victoire domicile,joué
+2025,14,2025-11-30,dim 30 nov.,Le Havre,Lille,0,1,1,Victoire extérieur,joué
+2025,14,2025-11-30,dim 30 nov.,Lyon,Nantes,3,0,3,Victoire domicile,joué
+2025,14,2025-11-30,dim 30 nov.,Angers,Lens,1,2,3,Victoire extérieur,joué
+2025,14,2025-11-30,dim 30 nov.,Strasbourg,Brest,1,2,3,Victoire extérieur,joué
+2025,14,2025-11-30,dim 30 nov.,Lorient,Nice,3,1,4,Victoire domicile,joué
+2025,15,2025-12-05,ven 5 déc.,Lille,Marseille,1,0,1,Victoire domicile,joué
+2025,15,2025-12-05,ven 5 déc.,Brest,Monaco,1,0,1,Victoire domicile,joué
+2025,15,2025-12-06,sam 6 déc.,Nantes,Lens,1,2,3,Victoire extérieur,joué
+2025,15,2025-12-06,sam 6 déc.,Toulouse,Strasbourg,1,0,1,Victoire domicile,joué
+2025,15,2025-12-06,sam 6 déc.,Paris SG,Rennes,5,0,5,Victoire domicile,joué
+2025,15,2025-12-07,dim 7 déc.,Le Havre,Paris FC,0,0,0,Match nul,joué
+2025,15,2025-12-07,dim 7 déc.,Nice,Angers,0,1,1,Victoire extérieur,joué
+2025,15,2025-12-07,dim 7 déc.,Auxerre,Metz,3,1,4,Victoire domicile,joué
+2025,15,2025-12-07,dim 7 déc.,Lorient,Lyon,1,0,1,Victoire domicile,joué
+2025,16,2025-12-12,ven 12 déc.,Angers,Nantes,4,1,5,Victoire domicile,joué
+2025,16,2025-12-13,sam 13 déc.,Paris FC,Toulouse,0,3,3,Victoire extérieur,joué
+2025,16,2025-12-13,sam 13 déc.,Metz,Paris SG,2,3,5,Victoire extérieur,joué
+2025,16,2025-12-13,sam 13 déc.,Rennes,Brest,3,1,4,Victoire domicile,joué
+2025,16,2025-12-14,dim 14 déc.,Auxerre,Lille,3,4,7,Victoire extérieur,joué
+2025,16,2025-12-14,dim 14 déc.,Lyon,Le Havre,1,0,1,Victoire domicile,joué
+2025,16,2025-12-14,dim 14 déc.,Lens,Nice,2,0,2,Victoire domicile,joué
+2025,16,2025-12-14,dim 14 déc.,Strasbourg,Lorient,0,0,0,Match nul,joué
+2025,16,2025-12-14,dim 14 déc.,Marseille,Monaco,1,0,1,Victoire domicile,joué
+2025,17,2026-01-02,ven 2 janv.,Toulouse,Lens,0,3,3,Victoire extérieur,joué
+2025,17,2026-01-03,sam 3 janv.,Lille,Rennes,0,2,2,Victoire extérieur,joué
+2025,17,2026-01-03,sam 3 janv.,Monaco,Lyon,1,3,4,Victoire extérieur,joué
+2025,17,2026-01-03,sam 3 janv.,Nice,Strasbourg,1,1,2,Match nul,joué
+2025,17,2026-01-04,dim 4 janv.,Paris SG,Paris FC,2,1,3,Victoire domicile,joué
+2025,17,2026-01-04,dim 4 janv.,Le Havre,Angers,2,1,3,Victoire domicile,joué
+2025,17,2026-01-04,dim 4 janv.,Marseille,Nantes,0,2,2,Victoire extérieur,joué
+2025,17,2026-01-04,dim 4 janv.,Lorient,Metz,1,1,2,Match nul,joué
+2025,17,2026-01-04,dim 4 janv.,Brest,Auxerre,2,0,2,Victoire domicile,joué
+2025,18,2026-01-16,ven 16 janv.,Monaco,Lorient,1,3,4,Victoire extérieur,joué
+2025,18,2026-01-16,ven 16 janv.,Paris SG,Lille,3,0,3,Victoire domicile,joué
+2025,18,2026-01-17,sam 17 janv.,Toulouse,Nice,5,1,6,Victoire domicile,joué
+2025,18,2026-01-17,sam 17 janv.,Lens,Auxerre,1,0,1,Victoire domicile,joué
+2025,18,2026-01-17,sam 17 janv.,Angers,Marseille,2,5,7,Victoire extérieur,joué
+2025,18,2026-01-18,dim 18 janv.,Lyon,Brest,2,1,3,Victoire domicile,joué
+2025,18,2026-01-18,dim 18 janv.,Nantes,Paris FC,1,2,3,Victoire extérieur,joué
+2025,18,2026-01-18,dim 18 janv.,Strasbourg,Metz,2,1,3,Victoire domicile,joué
+2025,18,2026-01-18,dim 18 janv.,Rennes,Le Havre,1,1,2,Match nul,joué
+2025,19,2026-01-23,ven 23 janv.,Auxerre,Paris SG,0,1,1,Victoire extérieur,joué
+2025,19,2026-01-24,sam 24 janv.,Marseille,Lens,3,1,4,Victoire domicile,joué
+2025,19,2026-01-24,sam 24 janv.,Le Havre,Monaco,0,0,0,Match nul,joué
+2025,19,2026-01-24,sam 24 janv.,Rennes,Lorient,0,2,2,Victoire extérieur,joué
+2025,19,2026-01-25,dim 25 janv.,Nantes,Nice,1,4,5,Victoire extérieur,joué
+2025,19,2026-01-25,dim 25 janv.,Lille,Strasbourg,1,4,5,Victoire extérieur,joué
+2025,19,2026-01-25,dim 25 janv.,Brest,Toulouse,0,2,2,Victoire extérieur,joué
+2025,19,2026-01-25,dim 25 janv.,Paris FC,Angers,0,0,0,Match nul,joué
+2025,19,2026-01-25,dim 25 janv.,Metz,Lyon,2,5,7,Victoire extérieur,joué
+2025,20,2026-01-30,ven 30 janv.,Lens,Le Havre,1,0,1,Victoire domicile,joué
+2025,20,2026-01-31,sam 31 janv.,Monaco,Rennes,4,0,4,Victoire domicile,joué
+2025,20,2026-01-31,sam 31 janv.,Paris FC,Marseille,2,2,4,Match nul,joué
+2025,20,2026-01-31,sam 31 janv.,Lorient,Nantes,2,1,3,Victoire domicile,joué
+2025,20,2026-02-01,dim 1 févr.,Nice,Brest,2,2,4,Match nul,joué
+2025,20,2026-02-01,dim 1 févr.,Strasbourg,Paris SG,1,2,3,Victoire extérieur,joué
+2025,20,2026-02-01,dim 1 févr.,Lyon,Lille,1,0,1,Victoire domicile,joué
+2025,20,2026-02-01,dim 1 févr.,Angers,Metz,1,0,1,Victoire domicile,joué
+2025,20,2026-02-01,dim 1 févr.,Toulouse,Auxerre,0,0,0,Match nul,joué
+2025,21,2026-02-06,ven 6 févr.,Metz,Lille,0,0,0,Match nul,joué
+2025,21,2026-02-07,sam 7 févr.,Brest,Lorient,2,0,2,Victoire domicile,joué
+2025,21,2026-02-07,sam 7 févr.,Nantes,Lyon,0,1,1,Victoire extérieur,joué
+2025,21,2026-02-07,sam 7 févr.,Lens,Rennes,3,1,4,Victoire domicile,joué
+2025,21,2026-02-08,dim 8 févr.,Paris SG,Marseille,5,0,5,Victoire domicile,joué
+2025,21,2026-02-08,dim 8 févr.,Angers,Toulouse,1,0,1,Victoire domicile,joué
+2025,21,2026-02-08,dim 8 févr.,Le Havre,Strasbourg,2,1,3,Victoire domicile,joué
+2025,21,2026-02-08,dim 8 févr.,Nice,Monaco,0,0,0,Match nul,joué
+2025,21,2026-02-08,dim 8 févr.,Auxerre,Paris FC,0,0,0,Match nul,joué
+2025,22,2026-02-13,ven 13 févr.,Monaco,Nantes,3,1,4,Victoire domicile,joué
+2025,22,2026-02-13,ven 13 févr.,Rennes,Paris SG,3,1,4,Victoire domicile,joué
+2025,22,2026-02-14,sam 14 févr.,Lille,Brest,1,1,2,Match nul,joué
+2025,22,2026-02-14,sam 14 févr.,Paris FC,Lens,0,5,5,Victoire extérieur,joué
+2025,22,2026-02-14,sam 14 févr.,Marseille,Strasbourg,2,2,4,Match nul,joué
+2025,22,2026-02-15,dim 15 févr.,Lyon,Nice,2,0,2,Victoire domicile,joué
+2025,22,2026-02-15,dim 15 févr.,Le Havre,Toulouse,2,1,3,Victoire domicile,joué
+2025,22,2026-02-15,dim 15 févr.,Metz,Auxerre,1,3,4,Victoire extérieur,joué
+2025,22,2026-02-15,dim 15 févr.,Lorient,Angers,2,0,2,Victoire domicile,joué
+2025,23,2026-02-20,ven 20 févr.,Brest,Marseille,2,0,2,Victoire domicile,joué
+2025,23,2026-02-21,sam 21 févr.,Lens,Monaco,2,3,5,Victoire extérieur,joué
+2025,23,2026-02-21,sam 21 févr.,Toulouse,Paris FC,1,1,2,Match nul,joué
+2025,23,2026-02-21,sam 21 févr.,Paris SG,Metz,3,0,3,Victoire domicile,joué
+2025,23,2026-02-22,dim 22 févr.,Strasbourg,Lyon,3,1,4,Victoire domicile,joué
+2025,23,2026-02-22,dim 22 févr.,Auxerre,Rennes,0,3,3,Victoire extérieur,joué
+2025,23,2026-02-22,dim 22 févr.,Nantes,Le Havre,2,0,2,Victoire domicile,joué
+2025,23,2026-02-22,dim 22 févr.,Nice,Lorient,3,3,6,Match nul,joué
+2025,23,2026-02-22,dim 22 févr.,Angers,Lille,0,1,1,Victoire extérieur,joué
+2025,24,2026-02-27,ven 27 févr.,Strasbourg,Lens,1,1,2,Match nul,joué
+2025,24,2026-02-28,sam 28 févr.,Le Havre,Paris SG,0,1,1,Victoire extérieur,joué
+2025,24,2026-02-28,sam 28 févr.,Monaco,Angers,2,0,2,Victoire domicile,joué
+2025,24,2026-02-28,sam 28 févr.,Rennes,Toulouse,1,0,1,Victoire domicile,joué
+2025,24,2026-03-01,dim 1 mars,Marseille,Lyon,3,2,5,Victoire domicile,joué
+2025,24,2026-03-01,dim 1 mars,Paris FC,Nice,1,0,1,Victoire domicile,joué
+2025,24,2026-03-01,dim 1 mars,Metz,Brest,0,1,1,Victoire extérieur,joué
+2025,24,2026-03-01,dim 1 mars,Lille,Nantes,1,0,1,Victoire domicile,joué
+2025,24,2026-03-01,dim 1 mars,Lorient,Auxerre,2,2,4,Match nul,joué
+2025,25,2026-03-06,ven 6 mars,Paris SG,Monaco,1,3,4,Victoire extérieur,joué
+2025,25,2026-03-07,sam 7 mars,Nantes,Angers,0,1,1,Victoire extérieur,joué
+2025,25,2026-03-07,sam 7 mars,Toulouse,Marseille,0,1,1,Victoire extérieur,joué
+2025,25,2026-03-07,sam 7 mars,Auxerre,Strasbourg,0,0,0,Match nul,joué
+2025,25,2026-03-08,dim 8 mars,Brest,Le Havre,2,0,2,Victoire domicile,joué
+2025,25,2026-03-08,dim 8 mars,Lyon,Paris FC,1,1,2,Match nul,joué
+2025,25,2026-03-08,dim 8 mars,Nice,Rennes,0,4,4,Victoire extérieur,joué
+2025,25,2026-03-08,dim 8 mars,Lens,Metz,3,0,3,Victoire domicile,joué
+2025,25,2026-03-08,dim 8 mars,Lille,Lorient,1,1,2,Match nul,joué
+2025,26,2026-03-13,ven 13 mars,Marseille,Auxerre,1,0,1,Victoire domicile,joué
+2025,26,2026-03-14,sam 14 mars,Lorient,Lens,2,1,3,Victoire domicile,joué
+2025,26,2026-03-14,sam 14 mars,Monaco,Brest,2,0,2,Victoire domicile,joué
+2025,26,2026-03-14,sam 14 mars,Angers,Nice,0,2,2,Victoire extérieur,joué
+2025,26,2026-03-15,dim 15 mars,Strasbourg,Paris FC,0,0,0,Match nul,joué
+2025,26,2026-03-15,dim 15 mars,Le Havre,Lyon,0,0,0,Match nul,joué
+2025,26,2026-03-15,dim 15 mars,Rennes,Lille,1,2,3,Victoire extérieur,joué
+2025,26,2026-03-15,dim 15 mars,Metz,Toulouse,3,4,7,Victoire extérieur,joué
+2025,26,2026-04-22,mer 22 avr.,Paris SG,Nantes,3,0,3,Victoire domicile,joué
+2025,27,2026-03-20,ven 20 mars,Lens,Angers,5,1,6,Victoire domicile,joué
+2025,27,2026-03-21,sam 21 mars,Auxerre,Brest,3,0,3,Victoire domicile,joué
+2025,27,2026-03-21,sam 21 mars,Toulouse,Lorient,1,0,1,Victoire domicile,joué
+2025,27,2026-03-21,sam 21 mars,Nice,Paris SG,0,4,4,Victoire extérieur,joué
+2025,27,2026-03-22,dim 22 mars,Marseille,Lille,1,2,3,Victoire extérieur,joué
+2025,27,2026-03-22,dim 22 mars,Paris FC,Le Havre,3,2,5,Victoire domicile,joué
+2025,27,2026-03-22,dim 22 mars,Nantes,Strasbourg,2,3,5,Victoire extérieur,joué
+2025,27,2026-03-22,dim 22 mars,Rennes,Metz,0,0,0,Match nul,joué
+2025,27,2026-03-22,dim 22 mars,Lyon,Monaco,1,2,3,Victoire extérieur,joué
+2025,28,2026-04-03,ven 3 avr.,Paris SG,Toulouse,3,1,4,Victoire domicile,joué
+2025,28,2026-04-04,sam 4 avr.,Brest,Rennes,3,4,7,Victoire extérieur,joué
+2025,28,2026-04-04,sam 4 avr.,Strasbourg,Nice,3,1,4,Victoire domicile,joué
+2025,28,2026-04-04,sam 4 avr.,Lille,Lens,3,0,3,Victoire domicile,joué
+2025,28,2026-04-05,dim 5 avr.,Lorient,Paris FC,1,1,2,Match nul,joué
+2025,28,2026-04-05,dim 5 avr.,Monaco,Marseille,2,1,3,Victoire domicile,joué
+2025,28,2026-04-05,dim 5 avr.,Metz,Nantes,0,0,0,Match nul,joué
+2025,28,2026-04-05,dim 5 avr.,Le Havre,Auxerre,1,1,2,Match nul,joué
+2025,28,2026-04-05,dim 5 avr.,Angers,Lyon,0,0,0,Match nul,joué
+2025,29,2026-04-10,ven 10 avr.,Paris FC,Monaco,4,1,5,Victoire domicile,joué
+2025,29,2026-04-10,ven 10 avr.,Marseille,Metz,3,1,4,Victoire domicile,joué
+2025,29,2026-04-11,sam 11 avr.,Auxerre,Nantes,0,0,0,Match nul,joué
+2025,29,2026-04-11,sam 11 avr.,Rennes,Angers,2,1,3,Victoire domicile,joué
+2025,29,2026-04-12,dim 12 avr.,Toulouse,Lille,0,4,4,Victoire extérieur,joué
+2025,29,2026-04-12,dim 12 avr.,Nice,Le Havre,1,1,2,Match nul,joué
+2025,29,2026-04-12,dim 12 avr.,Lyon,Lorient,2,0,2,Victoire domicile,joué
+2025,29,2026-05-13,mer 13 mai,Lens,Paris SG,0,2,2,Victoire extérieur,joué
+2025,29,2026-05-13,mer 13 mai,Brest,Strasbourg,1,2,3,Victoire extérieur,joué
+2025,30,2026-04-17,ven 17 avr.,Lens,Toulouse,3,2,5,Victoire domicile,joué
+2025,30,2026-04-18,sam 18 avr.,Angers,Le Havre,1,1,2,Match nul,joué
+2025,30,2026-04-18,sam 18 avr.,Lorient,Marseille,2,0,2,Victoire domicile,joué
+2025,30,2026-04-18,sam 18 avr.,Lille,Nice,0,0,0,Match nul,joué
+2025,30,2026-04-19,dim 19 avr.,Nantes,Brest,1,1,2,Match nul,joué
+2025,30,2026-04-19,dim 19 avr.,Strasbourg,Rennes,0,3,3,Victoire extérieur,joué
+2025,30,2026-04-19,dim 19 avr.,Metz,Paris FC,1,3,4,Victoire extérieur,joué
+2025,30,2026-04-19,dim 19 avr.,Paris SG,Lyon,1,2,3,Victoire extérieur,joué
+2025,30,2026-04-19,dim 19 avr.,Monaco,Auxerre,2,2,4,Match nul,joué
+2025,31,2026-04-24,ven 24 avr.,Brest,Lens,3,3,6,Match nul,joué
+2025,31,2026-04-25,sam 25 avr.,Lyon,Auxerre,3,2,5,Victoire domicile,joué
+2025,31,2026-04-25,sam 25 avr.,Toulouse,Monaco,2,2,4,Match nul,joué
+2025,31,2026-04-25,sam 25 avr.,Angers,Paris SG,0,3,3,Victoire extérieur,joué
+2025,31,2026-04-26,dim 26 avr.,Rennes,Nantes,2,1,3,Victoire domicile,joué
+2025,31,2026-04-26,dim 26 avr.,Marseille,Nice,1,1,2,Match nul,joué
+2025,31,2026-04-26,dim 26 avr.,Le Havre,Metz,4,4,8,Match nul,joué
+2025,31,2026-04-26,dim 26 avr.,Lorient,Strasbourg,2,3,5,Victoire extérieur,joué
+2025,31,2026-04-26,dim 26 avr.,Paris FC,Lille,0,1,1,Victoire extérieur,joué
+2025,32,2026-05-02,sam 2 mai,Metz,Monaco,1,2,3,Victoire extérieur,joué
+2025,32,2026-05-02,sam 2 mai,Nice,Lens,1,1,2,Match nul,joué
+2025,32,2026-05-02,sam 2 mai,Nantes,Marseille,3,0,3,Victoire domicile,joué
+2025,32,2026-05-02,sam 2 mai,Paris SG,Lorient,2,2,4,Match nul,joué
+2025,32,2026-05-03,dim 3 mai,Lyon,Rennes,4,2,6,Victoire domicile,joué
+2025,32,2026-05-03,dim 3 mai,Strasbourg,Toulouse,1,2,3,Victoire extérieur,joué
+2025,32,2026-05-03,dim 3 mai,Paris FC,Brest,4,0,4,Victoire domicile,joué
+2025,32,2026-05-03,dim 3 mai,Lille,Le Havre,1,1,2,Match nul,joué
+2025,32,2026-05-03,dim 3 mai,Auxerre,Angers,3,1,4,Victoire domicile,joué
+2025,33,2026-05-08,ven 8 mai,Lens,Nantes,1,0,1,Victoire domicile,joué
+2025,33,2026-05-10,dim 10 mai,Toulouse,Lyon,2,1,3,Victoire domicile,joué
+2025,33,2026-05-10,dim 10 mai,Auxerre,Nice,2,1,3,Victoire domicile,joué
+2025,33,2026-05-10,dim 10 mai,Angers,Strasbourg,1,1,2,Match nul,joué
+2025,33,2026-05-10,dim 10 mai,Paris SG,Brest,1,0,1,Victoire domicile,joué
+2025,33,2026-05-10,dim 10 mai,Rennes,Paris FC,2,1,3,Victoire domicile,joué
+2025,33,2026-05-10,dim 10 mai,Metz,Lorient,0,4,4,Victoire extérieur,joué
+2025,33,2026-05-10,dim 10 mai,Monaco,Lille,0,1,1,Victoire extérieur,joué
+2025,33,2026-05-10,dim 10 mai,Le Havre,Marseille,0,1,1,Victoire extérieur,joué
+2025,34,2026-05-17,dim 17 mai,Lorient,Le Havre,0,2,2,Victoire extérieur,joué
+2025,34,2026-05-17,dim 17 mai,Marseille,Rennes,3,1,4,Victoire domicile,joué
+2025,34,2026-05-17,dim 17 mai,Lille,Auxerre,0,2,2,Victoire extérieur,joué
+2025,34,2026-05-17,dim 17 mai,Paris FC,Paris SG,2,1,3,Victoire domicile,joué
+2025,34,2026-05-17,dim 17 mai,Brest,Angers,1,1,2,Match nul,joué
+2025,34,2026-05-17,dim 17 mai,Strasbourg,Monaco,5,4,9,Victoire domicile,joué
+2025,34,2026-05-17,dim 17 mai,Nice,Metz,0,0,0,Match nul,joué
+2025,34,2026-05-17,dim 17 mai,Lyon,Lens,0,4,4,Victoire extérieur,joué
+2025,34,2026-05-17,dim 17 mai,Nantes,Toulouse,0,0,0,Match nul,joué

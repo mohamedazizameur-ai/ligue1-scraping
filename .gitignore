@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+
+# Secrets : ne jamais publier la clé d API
+.env
+
+# Pages HTML téléchargées (cache local du scraper)
+data/cache/
